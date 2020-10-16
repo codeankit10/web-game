@@ -2,6 +2,7 @@
 
 
 # FRONT-END Based Project :
+
 • This project is create using basic FRONT-END languages.
 
 • This is created using HTML, CSS, JavaScript languages which are the basic
