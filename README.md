@@ -2,6 +2,7 @@
 
 # FRONT-END Based Project :
 • This project is create using basic FRONT-END languages.
+
 • This is created using HTML, CSS, JavaScript languages which are the basic
 FRONT-END.
 FRONT-END :
@@ -11,7 +12,8 @@ the customer sees and interacts with directly.
 
 ## HTML :
 HyperText Markup Language is the standard markup language used to create web
-pages. It is written in the form of HTML elments consisting of tag enclosed in
+pages. 
+It is written in the form of HTML elments consisting of tag enclosed in
 angles brackets.
 
 ## CSS :
